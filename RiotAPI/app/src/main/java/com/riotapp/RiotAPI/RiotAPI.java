@@ -19,7 +19,7 @@ public class RiotAPI extends Thread{
 
     String PlayerName;
 
-    final String TOKEN = "RGAPI-b95828ac-16b9-4d82-bb93-c36fd05ec8a7";
+    final String TOKEN = // 각자 토큰;
 
     PlayerData data;
     public boolean success;
